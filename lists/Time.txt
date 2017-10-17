@@ -1,0 +1,90 @@
+after
+AM
+annual
+ante meridian
+atomic clock
+before
+before hand
+belated
+biennial
+bicentennial
+calendar
+century
+chronological
+chronology
+chronometer
+clock
+Coordinated Universal Time
+cuckoo clock
+day
+daylight
+daylight savings time
+daytime
+decade
+delay
+dial
+DST
+early
+fortnight
+future
+gnomon
+grandfather clock
+Greenwich Mean Time
+half-life
+hands
+horology
+hour
+hourglass
+hour hand
+IDL
+International Date Line
+jubilee
+late
+later
+leap second
+leap year
+lunar month
+medirian
+microsecond
+midnight
+millennium
+millisecond
+minute
+month
+nanosecond
+night
+nighttime
+noon
+now
+o'clock
+on time
+past
+pendulum clock
+PM
+pocket watch
+post medidian
+premature
+present
+prime meridian
+punctual
+quarter hour
+second
+second hand
+sidereal time
+stopwatch
+sundial
+sunrise
+sunset
+synchronized
+tardy
+tempo
+then
+time
+timer
+time keeper
+time zone
+UTC
+watch
+week
+year
+Zulu time
