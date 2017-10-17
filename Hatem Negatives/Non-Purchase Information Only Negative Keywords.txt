@@ -1,0 +1,37 @@
+research
+news
+statistic
+statistics
+article
+articles
+blog
+blogs
+information
+info
+opinion
+opinions
+journal
+journals
+magazine
+magazines
+definition
+newspaper
+newspapers
+wiki
+wikis
+report
+reports
+open source
+public domain
+guide
+guides
+sample
+samples
+template
+templates
+example
+examples
+association
+associations
+club
+clubs
